@@ -1,4 +1,4 @@
- #Encryption
+ # Encryption
  ````
  sample input
  a
@@ -22,7 +22,7 @@ for character in message:
 print 'The Encrypted final message is', newmsg
 
  
-#Decryption
+# Decryption
 ````
 sample input
  e
